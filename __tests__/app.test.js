@@ -7,4 +7,7 @@ describe('demo routes', () => {
   beforeEach(() => {
     return setup(pool);
   });
+  it('will pass the test', () => {
+   
+  });
 });
